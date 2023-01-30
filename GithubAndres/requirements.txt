@@ -1,0 +1,38 @@
+
+******PROYECTO TESIS GRUPO 21 **********
+
+TEMA: DISEÑO DE MODULO ADMINISTRATIVO DE ALQUILER DE HABITACION, 
+INVENTARIO Y RESERVA DEL HOTEL SAN LUIS, EN LA CIUDAD DE MILAGRO
+
+****************************************************************
+
+
+DESCARGAR:
+***********
+
+XAMPP VERSION 3.3.0
+
+VISUAL STUDIO CODE 1.74.3
+
+BROWSER GOOGLE CHROME VERSION 109.0.5414.120
+
+BOOTSTRAP VERSION 5
+
+JS VERSION 1.5
+
+Git Version 2.39.1
+
+GithHub Online 2023
+
+****************************************************************
+
+
+
+
+
+
+
+
+
+
+
