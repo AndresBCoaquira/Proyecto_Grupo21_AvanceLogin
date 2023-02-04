@@ -18,9 +18,11 @@ Creando asi los respectivos controladores el
 *index.php
 *registro.php
 
+**************************
+Credenciales del Sistema
 USER:aburgosc@unemi.edu.ec
 PASSWORD:123
- 
+************************** 
 
 
 
