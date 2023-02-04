@@ -1,5 +1,5 @@
 
-******PROYECTO TESIS GRUPO 21 **********
+**************PROYECTO TESIS GRUPO 21 *********************
 
     TEMA: DISEÑO DE MODULO ADMINISTRATIVO DE ALQUILER DE 
     HABITACION, INVENTARIO Y RESERVA DEL HOTEL SAN LUIS, 
@@ -18,7 +18,8 @@ Creando asi los respectivos controladores el
 *index.php
 *registro.php
 
-
+USER:aburgosc@unemi.edu.ec
+PASSWORD:123
  
 
 
